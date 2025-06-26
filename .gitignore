@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Coverage directory
+coverage/
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# Optional: log files
+*.log
+
+# Optional: local database
+*.sqlite
+*.sqlite3
+
+# Optional: images uploaded locally for test
+uploads/
+
+# Optional: compiled static files
+/public/static/
+
+# Optional: debug folder
+debug/
+
+# Optional: next.js specific
+.next/
+
+# Optional: parcel-bundler cache
+.cache/
+
+# Optional: misc
+*.tgz
